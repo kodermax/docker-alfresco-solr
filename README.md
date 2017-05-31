@@ -1,0 +1,1 @@
+Alfresco Solr 5.2.f
