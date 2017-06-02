@@ -1,5 +1,5 @@
 FROM tomcat:7.0.77-jre8
-MAINTAINER Jeremie Lesage <jeremie.lesage@gmail.com>
+MAINTAINER Maksim Karpychev <kodermax@gmail.com>
 
 ENV NEXUS=https://artifacts.alfresco.com/nexus/content/groups/public
 
